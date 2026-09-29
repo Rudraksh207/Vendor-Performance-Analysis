@@ -238,7 +238,7 @@ Key dashboard components include:
 * Cost trends
 * Interactive filters for vendor, product, and transaction-level analysis
 
-![Vendor Invoice Intelligence Dashboard](images/dashboard.png)
+
 
 ---
 
